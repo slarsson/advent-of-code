@@ -1,0 +1,7 @@
+target/
+main
+node_modules
+*.json
+.vscode
+*.out
+.bin
